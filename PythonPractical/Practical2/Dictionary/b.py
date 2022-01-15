@@ -1,5 +1,6 @@
 #D21CE161 Parth Goswami
 #b. Write a Python script to merge two Python dictionaries.
+#https://github.com/ParthGoswami001/D21CE161/blob/main/PythonPractical/Practical2/Dictionary/b.py
 
 #Dictionary 1
 Dictionary1={1:'apple',2:'banana',3:'cherry'}
