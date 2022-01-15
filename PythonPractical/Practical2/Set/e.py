@@ -20,3 +20,5 @@ print("Most Common element from list:",most_frequent(List))
 print("Most Common element from tuple:",most_frequent(Tuple))
 
 
+
+
