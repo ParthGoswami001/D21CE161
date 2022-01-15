@@ -13,4 +13,5 @@ def ReturnSum(MyDictionary):
         list.append(MyDictionary[i])
     final = sum(list)
     return final
+# sumation of values of dictionary
 print("Sum:",ReturnSum(dictionary))
