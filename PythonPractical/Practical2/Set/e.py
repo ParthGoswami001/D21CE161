@@ -16,7 +16,7 @@ def most_frequent(List):
 List = [2, 1, 2, 2, 1, 3]
 Tuple = (1,1,2,2,1,3)
 
-print("Most Common element from list",most_frequent(List))
-print("Most Common element from tuple",most_frequent(Tuple))
+print("Most Common element from list:",most_frequent(List))
+print("Most Common element from tuple:",most_frequent(Tuple))
 
 
