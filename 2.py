@@ -10,10 +10,10 @@ mode = sr.mode()
 range1 = sr.max() - sr.min();
 stdeviation = sr.std(axis=0, skipna=True)
 
-print(mean)
-print(median)
-print(mode)
-print(range1)
-print(stdeviation)
-print("Variance of sample set is % s"
+print("Mean:",mean)
+print("Median:",median)
+print("Mode:",mode)
+print("Range:",range1)
+print("Standard Deviation:",stdeviation)
+print("Variance of sample set is % s:"
       % (statistics.variance(sr)))
