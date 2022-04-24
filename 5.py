@@ -22,5 +22,6 @@ import math
 print(math.exp(1000))
 
 #5
+
 array = [ 0, 1, 2 ]
 print (array[3])
